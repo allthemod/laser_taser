@@ -1,0 +1,48 @@
+{
+
+    "overrides": [
+        {
+            "model": "custom\\laser.json"
+        },
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "custom\\laser_loading_0.json"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.4
+            },
+            "model": "custom\\laser_loading_1.json"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.7
+            },
+            "model": "custom\\laser_loading_2.json"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "custom\\laser_loading_3.json"
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "custom\\laser_loaded.json"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "custom\\laser_loaded.json"
+        }
+    ]
+}
