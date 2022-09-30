@@ -42,7 +42,7 @@
             "predicate": {"charged": 1,"firework": 1}, "model": "item/crossbow_firework"
         },
 	{
-	     "predicate": {"custom_model_data":2},"model": "item/crossbow_ideal"
+	     "predicate": {"custom_model_data":2},"model": "item/crossbow_ideal_t"
 	},
         {
             "predicate": {"pulling": 1,"custom_model_data":2}, "model": "item/crossbow_pulling_0_t"
