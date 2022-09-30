@@ -10,7 +10,7 @@
             "predicate": {"pulling": 1,"custom_model_data":2}, "model": "item/crossbow_pulling_0_t"
         },
         {
-            "predicate": {"pulling": 1,"pull": 0.58}, "model": "item/crossbow_pulling_1_t"
+            "predicate": {"pulling": 1,"pull": 0.58,"custom_model_data":2}, "model": "item/crossbow_pulling_1_t"
         },
         {
             "predicate": {"pulling": 1,"pull": 0.9,"custom_model_data":2}, "model": "item/crossbow_pulling_2_t"
