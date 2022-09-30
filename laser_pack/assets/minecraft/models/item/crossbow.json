@@ -1,7 +1,7 @@
 {
     "overrides": [
 	{
-		"model": "item/crossbow_1"
+		"model": "item/crossbow_original"
         },
 	{
 	     "predicate": {"custom_model_data":2},"model": "item/crossbow_ideal_t"
