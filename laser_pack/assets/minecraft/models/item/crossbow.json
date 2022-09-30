@@ -32,21 +32,21 @@
             "predicate": {
                 "pulling": 1
             },
-            "model": "item/crossbow_pulling_0"
+            "model": "item/crossbow_pulling_0_t"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/crossbow_pulling_1"
+            "model": "item/crossbow_pulling_1_t"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/crossbow_pulling_2"
+            "model": "item/crossbow_pulling_2_t"
         },
 		{
             "predicate": {
@@ -55,20 +55,20 @@
 				"pull":0.99
                  
             },
-            "model": "item/crossbow_pulling_3"
+            "model": "item/crossbow_pulling_3_t"
         },
         {
             "predicate": {
                 "charged": 1
             },
-            "model": "item/crossbow_arrow"
+            "model": "item/crossbow_arrow_t"
         },
         {
             "predicate": {
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/crossbow_firework"
+            "model": "item/crossbow_firework_t"
         }
     ]
 }
