@@ -40,6 +40,27 @@
         },
         {
             "predicate": {"charged": 1,"firework": 1}, "model": "item/crossbow_firework"
+        },
+	{
+	     "predicate": {"custom_model_data":2},"model": "item/crossbow_ideal"
+	},
+        {
+            "predicate": {"pulling": 1,"custom_model_data":2}, "model": "item/crossbow_pulling_0_t"
+        },
+        {
+            "predicate": {"pulling": 1,"pull": 0.58}, "model": "item/crossbow_pulling_1_t"
+        },
+        {
+            "predicate": {"pulling": 1,"pull": 0.9,"custom_model_data":2}, "model": "item/crossbow_pulling_2_t"
+        },
+	{
+            "predicate": {"pulling": 1,"charged": 0,"pull":0.99,"custom_model_data":2}, "model": "item/crossbow_pulling_3_t"
+        },
+        {
+            "predicate": {"charged": 1,"custom_model_data":2}, "model": "item/crossbow_arrow_t"
+        },
+        {
+            "predicate": {"charged": 1,"firework": 1,"custom_model_data":2}, "model": "item/crossbow_firework_t"
         }
     ]
 }
